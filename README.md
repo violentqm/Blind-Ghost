@@ -1,4 +1,5 @@
 # [Blind-Ghost]
+ps. this isnt done properly this isnt fiished code its just a concept i attempted at 12 at night and saw how it went till 2 am
 # The Setup
 run the script on any infected machine/zombie
 
